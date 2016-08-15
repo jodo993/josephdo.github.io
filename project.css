@@ -1,0 +1,67 @@
+@charset "utf-8";
+/* CSS Document */
+
+#sidebar
+{
+	float: left;
+}
+
+#sideStyle
+{
+	list-style-type: none;
+	margin-left: -15px;
+}
+
+.list
+{
+	border-style: solid;
+	border-width: 1px;
+	padding: 2px 5px 2px 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.list:hover
+{
+	background-color: red;
+}
+/********************************************
+#gallery
+{
+	margin: 75px auto;
+	width: 252px;
+	height: 252px;
+}
+
+.thumbnail
+{
+	float: left;
+	position: relative;
+	margin: 3px;
+}
+
+.thumbnail img
+{
+	border: 1px solid #000;
+	vertical-align: bottom;
+}
+
+.thumbnail:hover
+{
+	border: 0px;
+	z-index: 1;
+}
+
+.thumbnail span
+{
+	position: absolute;
+	visibility: hidden;
+}
+
+.thumbnail:hover span
+{
+	visibility: visible;
+	top: 37px;
+	left: 37px;
+}
+*************************************************/
